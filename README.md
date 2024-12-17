@@ -1,6 +1,4 @@
-![channels4_profile](https://github.com/user-attachments/assets/7eb6d2ea-6745-4bd6-90c0-72c45b4de703)
-
-
+<a href="https://upload.wikimedia.org/wikipedia/en/0/08/Path_of_Exile_Logo.png"><img src="https://upload.wikimedia.org/wikipedia/en/0/08/Path_of_Exile_Logo.png" /></a>
 
 # AutoMineCraft Bot
 
